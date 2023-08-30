@@ -6,7 +6,7 @@ hero:
   name: "docs-portal"
   tagline: 文档聚合门户
   image:
-    src: /icon.png
+    src: /big-icon.png
     alt: logo
 
 features:
@@ -19,3 +19,9 @@ features:
     link: /api-examples
 ---
 
+<style>
+.is-home .image-container {
+  width: 300px;
+  height: 300px;
+}
+</style>
